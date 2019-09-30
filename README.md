@@ -1,2 +1,2 @@
 # NCAA-Analysis
-Final project completed for my Data Analysis and Inference course
+This repo contains the final project for my Data Analysis and Inference course.
